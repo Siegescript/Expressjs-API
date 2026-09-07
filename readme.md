@@ -2,7 +2,7 @@
 
 A sacred RESTful shrine built with Express.js, Sequelize ORM, and MySQL, consecrated with session-based authentication, validation rites, rate-limiting wards, and cryptographic password hashing.
 
-## ⚙️ Technological Rites (Tech Stack)
+## Technological Rites (Tech Stack)
 
 * **Runtime:** Node.js (ES Modules)
 
@@ -16,7 +16,7 @@ A sacred RESTful shrine built with Express.js, Sequelize ORM, and MySQL, consecr
 
 ---
 
-## 📂 Sanctuary Architecture (Project Structure)
+## Sanctuary Architecture (Project Structure)
 
 ```text
 ├── src/
@@ -45,7 +45,7 @@ A sacred RESTful shrine built with Express.js, Sequelize ORM, and MySQL, consecr
 
 ---
 
-## 🛠️ Litany of Activation (Getting Started)
+## Litany of Activation (Getting Started)
 
 ### Prerequisites
 
@@ -91,7 +91,7 @@ npm run dev
 
 ---
 
-## 🔌 Sacred Vox-Channels (API Endpoints)
+## Sacred Vox-Channels (API Endpoints)
 
 ### Authentication (`/api/auth`)
 
